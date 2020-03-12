@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sudoku Solver </string>
+    <string name="sudoku_solve">Solve </string>
+    <string name="sudoku_reset">Reset</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sudoku_success_message">Here\'s your solution</string>
+    <string name="sudoku_error_message">Board is invalid</string>
+
+</resources>
